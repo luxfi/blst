@@ -1,3 +1,7 @@
+> This is a luxfi-maintained fork of [supranational/blst](https://github.com/supranational/blst); see [LUXFI-FORK.md](./LUXFI-FORK.md) for sync policy.
+
+---
+
 [![Actions status](https://github.com/supranational/blst/workflows/build/badge.svg)](https://github.com/supranational/blst/actions) [![CodeQL status](https://github.com/supranational/blst/workflows/CodeQL/badge.svg)](https://github.com/supranational/blst/actions/workflows/codeql-analysis.yml)
 <div align="left">
   <img src=blst_logo_small.png>
