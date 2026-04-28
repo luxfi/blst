@@ -1,4 +1,12 @@
-> This is a luxfi-maintained fork of [supranational/blst](https://github.com/supranational/blst); see [LUXFI-FORK.md](./LUXFI-FORK.md) for sync policy.
+## Lux Fork
+
+This is a Lux Industries fork of the canonical upstream:
+- **Upstream**: https://github.com/supranational/blst
+- **Pinned commit**: `06baf13`
+- **Pinned tag**: `v0.3.16`
+- **License**: Apache-2.0 (preserved from upstream — see `LICENSE`, modifications log in `NOTICE`)
+- **Lux extensions**: NONE (verbatim parity with upstream). Used as TEST-ORACLE-ONLY at `luxcpp/crypto/bls/test/cmake/blst.cmake`. LP-137 forbids any blst symbols in production link graphs.
+- **Tag policy**: track upstream semver verbatim. Divergence (if ever required) signaled by next-minor bump, NOT prerelease suffixes.
 
 ---
 
