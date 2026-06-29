@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="blst" width="880"></p>
+
 ## Lux Fork
 
 This is a Lux Industries fork of the canonical upstream:
