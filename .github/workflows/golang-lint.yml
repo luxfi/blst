@@ -16,7 +16,7 @@ on:
 
 jobs:
   golang-lint:
-    runs-on: ubuntu-latest
+    runs-on: linux-amd64
     steps:
       - uses: actions/checkout@v6
       - uses: actions/setup-go@v6
